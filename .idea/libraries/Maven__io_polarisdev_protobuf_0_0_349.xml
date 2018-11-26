@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.polarisdev:protobuf:0.0.349">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/polarisdev/protobuf/0.0.349/protobuf-0.0.349.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/polarisdev/protobuf/0.0.349/protobuf-0.0.349-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/polarisdev/protobuf/0.0.349/protobuf-0.0.349-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
